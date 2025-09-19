@@ -7,7 +7,8 @@ applyTo: "**/*.cs"
 - Always use the latest version C#, currently C# 13 features
 
 ## General Instructions
-- Prefix each commit message with the 
+- Always follow security best practices
+- Follow RESTful API design principles
 
 ## Naming Conventions
 - Use PascalCase for classes, method names and public members
