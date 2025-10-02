@@ -14,7 +14,7 @@ tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFile
 - Please output the list of tasks to a `tasks.md` file in the base directory
 - Please make your changes according to the tasks outlined in `tasks.md`
 - I want you to wait for my confirmation before proceeding to make changes to a given file or source code for each step
-- When committing code, keep the commit message concise and brief
+- When committing code, keep the commit message concise and brief, no more than 1 sentence
 - Make small commits and group logical changes together
 
 ## Response Style
