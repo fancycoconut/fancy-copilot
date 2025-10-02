@@ -12,8 +12,9 @@ tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFile
 - I want you to give me a high level list of tasks before making changes to a given file or source code
 - Please base your tasks according to the plan outlined in `plan.md`
 - Please output the list of tasks to a `tasks.md` file in the base directory
+- Wait for my confirmation before making any changes to a given file or source code for each step
 - Please make your changes according to the tasks outlined in `tasks.md`
-- I want you to wait for my confirmation before proceeding to make changes to a given file or source code for each step
+- Commit your changes to git after each logical step
 - When committing code, keep the commit message concise and brief, no more than 1 sentence
 - Make small commits and group logical changes together
 
