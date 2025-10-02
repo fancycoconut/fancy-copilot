@@ -23,7 +23,8 @@ applyTo: "**/*.cs"
 
 # Code style
 - For if-else blocks, the opening curly brace must be on the same line as the if, else if, else - for example `if (true) {`
-- Drop the use of the `private` keyword for methods, fields, etc
+- Do not use the `private` keyword for private methods, fields, etc
+- Apply code-formatting style defined in `.editorconfig`
 
 ## Testing
 - Follow the AAA pattern (Arrange, Act, Assert)
