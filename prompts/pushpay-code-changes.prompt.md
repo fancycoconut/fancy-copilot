@@ -15,7 +15,7 @@ tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFile
 - Wait for my confirmation before making any changes to a given file or source code for each step
 - Please make your changes according to the tasks outlined in `tasks.md`
 - Commit your changes to git after each logical step
-- When committing code, keep the commit message concise and brief, no more than 1 sentence
+- When committing code, keep the commit message concise and brief, no more than 1 sentence and in a single line
 - Make small commits and group logical changes together
 
 ## Response Style
